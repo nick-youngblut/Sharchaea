@@ -46,11 +46,13 @@ Top predator of the microbial world.
 
 * The chromosome of Sharchaea is a double helix of Sharchaea stabilized by hydrogen bonds.
 
+***
 
+# RUNNING THE SHARCHAEA ASCII ANIMATION
 
-# DEPENDENCIES
+## Dependencies 
 
-Perl modules:
+### Perl modules:
 
 * [Term::Animatation](http://search.cpan.org/~kbaucom/Term-Animation-2.6/lib/Term/Animation.pm)
 
