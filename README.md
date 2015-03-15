@@ -3,21 +3,31 @@ SHARCHAEA
 
 Top predator of the microbial world.
 
-
-![http://i.imgur.com/RMjvRlY.gif](http://i.imgur.com/RMjvRlY.gif)
-
-
-# SHARCHAEA PICS
+***
 
 ![sharchaea_2010](http://i.imgur.com/sEOHgsF.png)
 
+***
+
 ![sharchaea_2012](http://i.imgur.com/nlp7uPO.png)
+
+***
 
 ![sharchaea_2013_spring](http://i.imgur.com/WhYNhZs.png)
 
+***
+
 ![sharchaea_2013_fall](http://i.imgur.com/qRrCmKv.png)
 
+***
+
 ![sharchaea_2014](http://i.imgur.com/OOSHOrt.png)
+
+***
+
+![http://i.imgur.com/RMjvRlY.gif](http://i.imgur.com/RMjvRlY.gif)
+
+***
 
 
 # SHARCHAEA FACTS
