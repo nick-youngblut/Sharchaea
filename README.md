@@ -25,10 +25,17 @@ Top predator of the microbial world.
 
 ***
 
+### ascii Sharchaea
+
 ![http://i.imgur.com/RMjvRlY.gif](http://i.imgur.com/RMjvRlY.gif)
 
 ***
 
+### We're going to need a bigger petri dish!
+
+![sharchaea_ate_my_petri_dish](http://i.imgur.com/oNuyiBB.jpg)
+
+***
 
 # SHARCHAEA FACTS
 
